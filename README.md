@@ -49,10 +49,10 @@ Lets's collaborate and learn together!
 While I am a beginner, I'm eager to contribute to open-source projects. As I progress in my journey, I will actively seek oppurtunities to contribute and give back to the community.
 
 ## 📫 How to Reach Me:
-Feel free to reach out of me via email at prabhat.kumar.hisar@gmail.com.I'm looking forward to connecting with you!
+Feel free to reach out of me via email at prabhat.kumar.hisar@gmail.com. I'm looking forward to connecting with you!
 
 
-
+  
 
 
 
