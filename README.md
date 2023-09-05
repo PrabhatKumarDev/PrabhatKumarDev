@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I am a diligent and ambitious computer science stu
 
 ## 🔭 Projects:
 Here are some of the projects I have worked on during my academic journey:
-1. [Project One](https://github.com/your-github-username/project-one-link): A brief description of the project and the technologies utilized.
-2. [Project Two](https://github.com/your-github-username/project-two-link): Lessons learned and challenges faced during development.
+1. [Project One](https://github.com/PrabhatKumarDev/PyPassGen): Python Password Generator by using Python's random module.
+2. [Project Two](https://github.com/PrabhatKumarDev/RDJ-Tribute-Page): Tribute Page for RDJ and learn HTML, CSS, Javascript and Bootstap.
 
 For a comprehensive list of my projects, please explore my repositories.
 
